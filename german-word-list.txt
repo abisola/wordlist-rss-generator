@@ -1,0 +1,473 @@
+ab;from, away
+der Abend;the evening
+der Affe;the ape
+alle;all
+allein;alone
+als;as, than (in comparisons)
+also;so
+alt;old
+an;at
+andere;other
+der Anfang;the beginning
+die Angst;the fear
+ankommen;to arrive
+die Antwort;the answer
+antworten;to answer
+anziehen;to dress, to wear
+der Apfel;the apple
+die Arbeit;the work
+arbeiten;to work
+der Arm;the arm
+der Arzt;the doctor
+auch;also
+auf;on
+die Aufgabe;the task, the exercise
+das Auge, die Augen;the eye, the eyes
+aus;out of, from
+das Auto;the car
+der Bär;the bear
+baden;to bathe
+bald;soon
+der Ball;the ball
+bauen;to build
+der Baum;the tree
+der Bauer;the farmer
+beginnen;to begin
+bei;at
+beide;both
+das Bein;the leg
+das Beispiel;the example
+bekommen;to get
+der Berg;the mountain
+das Bett;the bed
+bezahlen;to pay 
+das Bild;the picture
+bin;(I) am
+bist;(you) are
+blau;blue
+bleiben;to remain
+die Blume;the flower
+der Boden;the floor
+böse;evil
+brauchen;to need
+braun;brown
+der Brief;the letter
+bringen;to bring
+das Brot;the bread
+der Bruder;the brother
+das Buch;the book
+da;there
+dachte;(I, he, she, it) thought
+dann;then
+denken;to think
+deshalb;because of that
+diese;these
+das Ding;the thing
+das Dorf;the village
+dick;thick, fat
+doch;but
+draussen;outside
+drehen;turn
+drei;three
+dumm;stupid
+durch;through
+dürfen;to be allowed
+durfte;(I, he, she, it) was allowed to do s.th.
+dabei;with it, at that
+damit;with this
+daran;about that
+davon;of that
+die Ecke;the corner
+das Ei;the egg
+ein;a
+einfach;simple
+einige;some
+das Eis;the ice, the ice cream
+der Elefant;the elephant
+die Eltern;the parents
+das Ende;the end
+endlich;finally
+er;he
+die Erde;the Earth
+erklären;to explain
+erschrecken;to scare
+erst;first
+erzählen;to tell, to narrate
+es;it
+essen;to eat
+das Essen;the food
+etwas;something
+fährt;(he, she, it) drives
+fahren;to drive
+das Fahrrad;the bicycle
+fallen;to fall
+die Familie;the family
+fangen;to catch
+fast;nearly
+fehlen;to miss
+der Fehler;the mistake
+das Fenster;the window
+die Ferien;the holidays
+fertig;ready
+fest;fixed, steady
+fiel;(I, he, she, it) fell
+finden;to find
+der Finger;the finger
+der Fisch;the fish
+die Flasche;the bottle
+fliegen;to fly
+die Frage;the question
+fragen;to ask
+die Frau;the woman
+frei;free
+der Freund;the friend
+fressen;to eat (for animals)
+die Freude;the joy
+freuen;to be happy
+der Freund;the friend
+früh;early
+fünf;five
+für;for
+fuhr;(I, he, she, it) drove
+der Fuß;the foot
+der Fußball;the football
+gab;(I, he, she, it) gave
+ganz;totally
+der Garten;the garden
+geben;to give
+gebissen;bit
+der Geburtstag;the birthday
+gegen;at about
+gehen;to walk
+gehören;to belong
+gelb;yellow
+das Geld;the money
+genau;exactly
+gerade;straight, just about
+gern;with pleasure
+die Geschichte;the stort, history
+geschrieben;written
+das Gesicht;the face
+gestellt;placed
+gesund;healthy
+gibt;(he, she, it) gives
+ging;(I, he, she, it) went
+das Glas;the glass
+glauben;to believe
+gleich;soon
+das Glück;the happiness
+glücklich;happy
+groß;great, big
+grün;green
+gut;good
+das Haar, die Haare;the hair, hairs
+haben;to have
+hängen;to hang
+halb;half
+der Hals;the neck
+halten;to hold
+die Hand;the hand
+der Hase;the hare
+hast;(you) have
+hat;(he, she, it) has
+hatte;(I, he, she, it) had
+das Haus;the house
+heiss;hot
+heißen;to be called
+heißt;(he, she, it) is called (i.e. My/his name is...)
+heizen;to heat
+helfen;to help
+heraus;out of
+Herr;Mr.
+heute;today
+hier;here
+der Himmel;the heaven, sky
+hinein;into
+hinter;behind
+hoch;high
+hören;to hear
+holen;to bring over
+die Hose;the trousers
+der Hund;the dog
+der Hunger;the hunger
+der Hut;the hat
+ich;I
+der Igel;the hedgehog
+im;in
+immer;always
+in;in
+ist;(he, she, it) is
+ja;yes
+das Jahr, die Jahre;the year, the years
+jeder;each
+jetzt;now
+jung;young
+der Junge;the boy
+kälter;colder
+der Kaffee;the coffee
+kalt;cold
+kam;(I, he, she, it) came
+kann;can
+kaputt;broke
+die Katze;the cat
+kaufen;to buy
+kein;no
+keiner;noone
+kennen;to know
+das Kind;the child
+die Klasse;the class
+klein;small
+kochen;to cook
+der König;the king
+können;can
+könnte;could
+kommen;to come
+der Kopf;the head
+kräftig;strong
+krank;sick
+die Küche;the kitchen
+die Kuh;the cow
+kurz;short
+der Kuss;the kiss
+lachen;to laugh
+lag;(I, he, she, it) lay
+das Land;the country
+lang;long
+langsam;slow
+lang;long
+las;(I, he, she, it) read
+lassen;to let
+laufen;to run
+laut;loud
+leben;to live
+der Lehrer, die Lehrerin;the teacher
+leer;empty
+leicht;easy, light
+leise;quiet
+legen;to lie (s.th down)
+lernen;to learn
+lesen;to read
+letzte;the last
+Leute;people
+das Licht;the light
+lieb;dear
+lief;(I, he, she, it) ran
+liegen;to lie (down)
+ließ;(I, he, she it) let
+das Loch;the hole
+der Löwe;the lion
+los;loose, off
+die Luft;the air
+lustig;funny
+machen;to make
+das Mädchen;the girl
+mal;times (as in: three times)
+malen;to paint
+man;one (as in: one should do this)
+der Mann;the man
+die Maus;the mouse
+mehr;more
+mein, meinen;my
+Menschen;people
+merken;to notice
+die Milch;the milk
+die Minute;the minute
+mit;with
+mögen;to like
+müssen, muss;must
+die Mutter, Mutti;the mother
+nach;after, to (a city, country)
+nachher;afterwards
+nächste;next
+die Nacht;the night
+nämlich;namely
+nah;close
+nahm;(I, he, she it) took
+der Name, die Namen;the name, the names
+die Nase;the nose
+nass;wet
+natürlich;naturally
+neben;next to, beside
+nehmen;to take
+nennen;to name
+nein;no
+neu;new
+nicht;not
+nichts;nothing
+nie;never
+nimmt;(he, she, it) takes
+noch;still, another
+nun;now
+nur;only
+oben;on top, above
+ob;whether
+oben;above
+offen;open
+oft;often
+ohne;without
+das Ohr, die Ohren;the ear, the ears
+die Oma;the grandmother (also: die Grossmutter)
+der Onkel;the uncle
+packen;to pack
+das Pferd;the horse
+pflanzen;to plant
+die Pfütze;the puddle
+der Platz;the place, the square
+plötzlich;suddenly
+das Rad;the wheel
+rechnen;to calculate
+reich;rich
+reiten;to ride
+rennen;to run
+richtig;correct
+rief;(I, he, she, it) called
+rot;red
+rufen;to call
+ruhig;quiet
+rund;round
+die Sache;the thing
+sagen;to say
+sah;(I, he, she, it) saw
+satt;full, well fed
+schenken;to give (as a present)
+schicken;to send
+das Schiff;the ship
+schimpfen;to rant
+schlafen;to sleep
+schlagen;to hit
+schlecht, schlimm;bad
+der Schnee;the snow
+schnell;quick
+schon;already
+schön;beautiful
+schon;already
+schreiben;to write
+schreien;to scream
+der Schüler;the pupil
+der Schuh;the shoe 
+die Schule;the school
+schwarz;black
+schwer;difficult, heavy
+die Schwester;the sister
+schwimmen;to swim
+der See;the lake
+die See;the sea
+sehen;to see
+sehr;very
+sein;to be
+die Seite;the side
+selbst;even
+setzen;to sit
+sieben;seven
+sind;(we, they) are
+singen;to sing
+sitzen;to sit
+so;so
+sofort;suddenly
+der Sohn;the son
+soll;should, shall
+der Sommer;the summer
+die Sonne;the sun
+der Sonntag;the Sunday
+spät;late
+der Spaß;the fun
+das Spiel;the game
+spielen;to play
+sprechen;to talk
+springen;to jump
+die Stadt;the city, the town
+stand;(I, he, she, it) stood
+stark;strong
+stehen;to stand
+steigen;to climb
+der Stein;the stone
+stellen;to place
+die Straße;the street
+das Stück;the piece
+der Stuhl;the chair
+die Stunde;the hour
+suchen;to search
+der Tag;the day
+tanken;to refuel
+die Tante;the aunt
+die Tasse;the cup
+der Teller;the plate
+tief;deep
+das Tier;the animal
+der Tisch;the table
+die Tochter;the daughter
+tot;dead
+tragen;to carry
+traurig;sad
+treffen;to meet
+trinken;to drink
+tun;to do
+die Tür;the door
+über;above, about
+die Uhr;the clock
+um;at
+und;and
+unten;below
+unter;under
+der Vater, Vati;the father
+vergessen;to forget
+verkaufen;to sell
+verlieren;to lose
+verstecken;to hide
+viel;many
+viele;a lot of
+vielleicht;perhaps
+vier;four
+der Vogel;the bird
+voll;full
+vom, von;of
+vor;before
+vorbei;past (a building)
+der Wagen;the car, the carriage
+wahr;true
+der Wald;the forest
+war;was
+warm;warm
+warten;to wait
+warum;why
+was;what
+waschen;to wash
+das Wasser;the water
+der Weg;the way
+weg;away
+Weihnachten;Christmas
+weil;because
+weinen;to cry
+weiß;white
+weit, weiter;far, futher
+wenig;few
+wenn;when, if
+wer;who
+werfen;to throw
+wie;how
+wieder;again
+die Wiese;the meadow
+wild;wild
+der Winter;the winter
+wir;we
+wissen;to know
+wo;where
+die Woche;the week
+wohnen;to live
+wollen (ich will, du willst...);want (I want, you want...)
+das Wort;the word
+die Wurst;the sausage
+die Zahl;the number
+der Zahn;the tooth
+zehn;ten
+zeigen;to show
+die Zeit;the time
+die Zeitung;the newspaper
+ziehen;to draw
+das Zimmer;the room
+zu;to (e.g. die Zeit zu gehen = the time to leave)
+zuerst;first of all
+der Zug;the train
+zurück;back
+zusammen;together
+zwei;two 
