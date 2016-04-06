@@ -1,17 +1,21 @@
 #!/usr/bin/python
 import time
 import random
+import os
+import sys
+
 from email.Utils import formatdate
 
 ##open translation file
 try: 
+	path = os.getenv('TRANSLATOR_PROJECT_ROOT_DIR', '')
 
-	f_german_words = open('german-word-list.txt', 'r')
+	f_german_words = open(path.strip()+'german-word-list.txt', 'r')
 
 	file_contents = f_german_words.readlines()
 
 	##create RSS file
-	f_rss = open('list.xml','w')
+	f_rss = open(path+'list.xml','w')
 
 	pubdate = formatdate()
 
@@ -22,8 +26,6 @@ try:
 
 	items = ''
 	counter = 0
-	## TODO exception handling for when things go wrong!
-
 
 	for num in range(0,20):
 		random_number = random.randrange(473) #generate random number to use 
@@ -43,7 +45,7 @@ except IOError:
 	print "There has been an error with reading or writing to the file. Sorrry"
 else: 
 	#write rss to file
-	print rss
+	# print rss
 	f_rss.write(rss)
 	
 	#tidy up
