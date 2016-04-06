@@ -6,4 +6,11 @@ This is an attempt to coopt the now defunct RSS visualiser screensaver and use f
 
 You need to set up the cron job to make it work. Obviously, you can change the language file to fit your needs.
 
+This is the cron job you will need to set: 
+
+*/1 * * * * /path/to/project/directory/setenv.sh
+
+You also need to set the environment variable: TRANSLATOR_PROJECT_ROOT_DIR
+
+
 Enjoy. It's pretty easy to use!
