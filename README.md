@@ -10,7 +10,7 @@ This is the cron job you will need to set:
 
 */1 * * * * /path/to/project/directory/setenv.sh
 
-You also need to set the environment variable: TRANSLATOR_PROJECT_ROOT_DIR
+You also need to set the environment variable: TRANSLATOR_PROJECT_ROOT_DIR to /path/to/project/directory/
 
 
 Enjoy. It's pretty easy to use!
